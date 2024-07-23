@@ -12,7 +12,7 @@ I am a junior developer from Poland
  
  ## Expertise
 
-<img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html&logoColor=%2361DAFB" />
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html%20-FE7A16?logo=html&logoColor=white&style=for-the-badge" />
+<img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-%231DA1F2.svg?&style=for-the-badge&logo=CSS&logoColor=white" />
 <br>
 
