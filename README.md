@@ -9,5 +9,7 @@ I am a junior developer from Poland
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Marek.Wendlandt/)<br>
 
 <br> Expertise
-<img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html&logoColor=%2361DAFB" /><br>
+<img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html&logoColor=%2361DAFB" />
+<img align="left" alt="HTML" src="https://img.shields.io/badge/html%20-FE7A16?logo=html&logoColor=white&style=for-the-badge" />
 <br>
+
