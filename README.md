@@ -1,4 +1,4 @@
-### Hi there  :wave:
+### Hi there  :wave:  I'm Marek!
 I am a junior developer from Poland
 
 💼 Working on project using html, css, php, sql, javasript, sql and python.
