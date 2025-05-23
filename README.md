@@ -1,4 +1,4 @@
-### Hello World :wave:
+### Hi there  :wave:
 I am a junior developer from Poland
 
 💼 Working on project using html, css, php, sql, javasript, sql and python.
